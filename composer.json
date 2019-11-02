@@ -1,0 +1,17 @@
+{
+    "name": "daproduction/php-session-class",
+    "description": "Library for session",
+    "type": "library",
+    "authors": [
+        {
+            "name": "DaProduction",
+            "email": "enimablack@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "DaProd\\":"src/"
+        }
+    },
+    "require": {}
+}
